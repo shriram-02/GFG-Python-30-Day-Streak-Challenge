@@ -1,19 +1,26 @@
 <!-- ===================================================== -->
-<!--        Python Skills Up - 30 Days Challenge           -->
+<!--        GeeksforGeeks DSA Learning Path 2k26           -->
 <!-- ===================================================== -->
 
-<h1 align="center">🐍 Python Skills Up – 30 Days Challenge 🔥</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Daily Python Coding Challenge Repository</strong>
-</p>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Challenge-30%20Days-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/your-username/python-skills-up-30-days?style=for-the-badge">
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+       alt="GeeksforGeeks Logo"
+       width="150" />
+
+  <h1> GeeksforGeeks DSA Learning Path 2k26</h1>
+
+  <p>
+    <strong>Data Structures & Algorithms Journey Repository</strong>
+  </p>
+
+  <p>
+    👨‍🎓 <strong>Shriram Lahane</strong> <br>
+    🏫 Sinhgad College of Engineering (SCOE), Pune <br>
+    📚 GeeksforGeeks DSA Learning Path 2k26
+  </p>
+
+</div>
 
 ---
 
