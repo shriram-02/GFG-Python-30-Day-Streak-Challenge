@@ -8,7 +8,8 @@
        alt="GeeksforGeeks Logo"
        width="150" />
 
-  <h1> GeeksforGeeks DSA Learning Path 2k26</h1>
+  <h1> 
+GFG-Python-30-Days-Streak-2k26</h1>
 
   <p>
     <strong>Data Structures & Algorithms Journey Repository</strong>
